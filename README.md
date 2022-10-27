@@ -17,3 +17,9 @@ FB Prophet Graphs
 ![](https://github.com/Gsilvera24/Machine-Learning-Project/blob/main/first%20fbprophet%20projection.png)
 
 ![](https://github.com/Gsilvera24/Machine-Learning-Project/blob/main/first%20fbprophet%20projection%202.png)
+
+LSTM Graphs
+
+![](https://github.com/Gsilvera24/Machine-Learning-Project/blob/main/spy_close_prices.png)
+
+![](https://github.com/Gsilvera24/Machine-Learning-Project/blob/main/spy_predictions.png)
